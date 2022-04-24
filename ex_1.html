@@ -1,0 +1,16 @@
+<!--Calcule a média de diversas notas digitadas pelo usuário-->
+<meta charset="UTF-8">
+
+<script>
+
+    var quantidadeNotas = parseInt(prompt("Quantas notas você quer calcular?"));
+    var soma = 0;
+    for(var contador = 1; contador <= quantidadeNotas; contador++) {
+        var nota = parseFloat(prompt("Digite a nota " + contador));
+        soma = soma + nota;
+    }
+
+    var media = soma / quantidadeNotas;
+    document.write("A media das notas é de " + media);
+
+</script>
