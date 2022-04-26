@@ -1,11 +1,11 @@
 # exercicios-javascript
 Lista de exercícios que estou resolvendo para praticar Lógica de Programação
 
-Dia 24/05/2022
+Dia 24/05/2022 -
   ex_1.html - Programa que calcula a media de varias notas ||
     Tive dificuldades em fazer esse programa pelo simples motivo de tentar usar uma forma mais rebuscada de resolver o problema, quando na    verdade eu deveria era fazer o simples.
   
-  ex_2.html - Calcula quadrado de cada numero ||
+Dia 24/05/2022 - ex_2.html - Calcula quadrado de cada numero ||
     Esse foi bem mais simples porque do contrario do "ex_1.html" eu tentei fazer o simples desde o começo. Funcionou
     
 Dia 25/05/2022
