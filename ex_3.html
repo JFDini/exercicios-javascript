@@ -1,0 +1,13 @@
+<!--Peça ao usuário para digitar 5 números. Verifique qual é o maior número e exiba-o.-->
+<meta charset="UTF-8">
+
+<script>
+
+    var numeros = [];
+    for(var contador = 1; contador < 6; contador++) {
+        var numeroRecebido = parseFloat(prompt("Digite o " + contador + " número"));
+        numeros.push(numeroRecebido);
+    }
+    alert(Math.max.apply(null, numeros));
+
+</script>
